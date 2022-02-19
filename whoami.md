@@ -1,7 +1,8 @@
 ---
 title: ""
 layout: collection
-permalink: /who-am-i/
+filename: whoami.md
+permalink: /whoami/
 ---
 
  ## Who am I ?
