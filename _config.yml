@@ -70,19 +70,30 @@ defaults:
       layout: post
       share: true
 
-# Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Cinthia M. Souza
+  picture: 
+  email: souza.cinthiamikaela@gmail.com
+  twitter: cinthiaa_souza
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/cinthiaa_souza
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/souzacinthia.m
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/CinthiaS
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Twitter
+    url: https://twitter.com/cinthiaa_souza
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/souzacinthia.m
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/CinthiaS
+    icon: fab fa-github-square
