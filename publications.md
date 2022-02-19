@@ -1,7 +1,7 @@
 ---
 title: Publications
 filename: publications.md
-layout: default
+layout: collection
 permalink: /publications/
 --- 
 
