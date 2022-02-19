@@ -1,8 +1,8 @@
 ---
-title: Contact Information
+title: ""
 filename: contact.md
 layout: default
 permalink: /contact/
 --- 
 
-Email: souza.cinthiamikaela@gmail.com
+Doubts? Suggestions? Partnerships? Send me a message by souza.cinthiamikaela@gmail.com.
