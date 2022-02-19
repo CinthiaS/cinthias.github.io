@@ -1,5 +1,4 @@
 ---
-title: Publications
 filename: publications.md
 layout: collection
 permalink: /publications/
