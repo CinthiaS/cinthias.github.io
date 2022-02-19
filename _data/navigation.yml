@@ -2,5 +2,9 @@
 
 - title: Home
   url: /
+- title: Who am I ?
+  url: /who-am-i.md/
 - title: Publications
   url: /publications/
+- title:  Contact Information
+  url: /contact/
