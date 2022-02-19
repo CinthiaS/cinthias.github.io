@@ -1,7 +1,7 @@
 ---
 title: ""
 filename: contact.md
-layout: default
+layout: collection
 permalink: /contact/
 --- 
 
